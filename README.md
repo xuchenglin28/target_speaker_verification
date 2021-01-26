@@ -8,7 +8,7 @@ Frequency-domain Speech Separation: https://github.com/xuchenglin28/speech_separ
 
 Frequency-domain Speaker Extraction: https://github.com/xuchenglin28/speaker_extraction
 
-Time-domain Speaker Extraction (SpEx): https://github.com/xuchenglin28/SpEx
+Time-domain Speaker Extraction (SpEx): https://github.com/xuchenglin28/speaker_extraction_SpEx
 
 # Data Configuration
 
